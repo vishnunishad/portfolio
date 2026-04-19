@@ -4,8 +4,10 @@ Personal portfolio website for Vishnu Nishad.
 
 ## Project Contents
 
+- `index.html` - Root entrypoint for static hosts (redirects to portfolio page)
 - `vishnu.html` - Main portfolio webpage (single-file HTML/CSS/JS)
 - `vishnuResume.pdf` - Resume document
+- `vercel.json` - Vercel routing configuration
 
 ## Features
 
@@ -16,7 +18,7 @@ Personal portfolio website for Vishnu Nishad.
 
 ## Run Locally
 
-This is a static project. Open `vishnu.html` directly in your browser.
+This is a static project. Open `index.html` directly in your browser.
 
 ## Deployment
 
