@@ -1,7 +1,7 @@
 # Portfolio
 
 Personal portfolio website for Vishnu Nishad.
-- :boom: You can visit [MY WEBSITE](vishnunportfolio.netlify.app).
+- :boom: You can visit [MY WEBSITE](https://vishnunportfolio.netlify.app/).
 
 ## Project Contents
 
